@@ -1,0 +1,2011 @@
+[
+    {
+       "rest_name":"arnie morton  s of chicago",
+       "rest_addr":" 435 s. la cienega blv . ",
+       "city":"los angeles",
+       "phone":3102461501,
+       "cuisine_type":"america"
+    },
+    {
+       "rest_name":"art  s delicatessen",
+       "rest_addr":" 12224 ventura blvd. ",
+       "city":"studio city",
+       "phone":8187621221,
+       "cuisine_type":"merican"
+    },
+    {
+       "rest_name":"campanile",
+       "rest_addr":" 624 s. la brea ave. ",
+       "city":"los angeles",
+       "phone":2139381447,
+       "cuisine_type":"amurican"
+    },
+    {
+       "rest_name":"fenix",
+       "rest_addr":" 8358 sunset blvd. west ",
+       "city":"hollywood",
+       "phone":2138486677,
+       "cuisine_type":"americen"
+    },
+    {
+       "rest_name":"grill on the alley",
+       "rest_addr":" 9560 dayton way ",
+       "city":"los angeles",
+       "phone":3102760615,
+       "cuisine_type":"americann"
+    },
+    {
+       "rest_name":"restaurant katsu",
+       "rest_addr":" 1972 n. hillhurst ave. ",
+       "city":"los angeles",
+       "phone":2136651891,
+       "cuisine_type":"asiane"
+    },
+    {
+       "rest_name":"locanda veneta",
+       "rest_addr":" 3rd st. ",
+       "city":"los angeles",
+       "phone":3102741893,
+       "cuisine_type":"itali"
+    },
+    {
+       "rest_name":"matsuhisa",
+       "rest_addr":" 129 n. la cienega blvd. ",
+       "city":"beverly hills",
+       "phone":3106599639,
+       "cuisine_type":"asiann"
+    },
+    {
+       "rest_name":"the palm",
+       "rest_addr":" 9001 santa monica blvd. ",
+       "city":"los angeles",
+       "phone":3105508811,
+       "cuisine_type":"americann"
+    },
+    {
+       "rest_name":"philippe  s the original",
+       "rest_addr":" 1001 n. alameda st. ",
+       "city":"los angeles",
+       "phone":2136283781,
+       "cuisine_type":"murican"
+    },
+    {
+       "rest_name":"rex il ristorante",
+       "rest_addr":" 617 s. olive st. ",
+       "city":"los angeles",
+       "phone":2136272300,
+       "cuisine_type":"italien"
+    },
+    {
+       "rest_name":"valentino",
+       "rest_addr":" 3115 pico blvd. ",
+       "city":"santa monica",
+       "phone":3108294313,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"yujean kang  s gourmet chinese cuisine",
+       "rest_addr":"67 n. raymond ave. ",
+       "city":"los angeles",
+       "phone":8185850855,
+       "cuisine_type":"asiat"
+    },
+    {
+       "rest_name":"21 club",
+       "rest_addr":"21 w. 52nd st. ",
+       "city":"new york",
+       "phone":2125827200,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"aureole",
+       "rest_addr":"34 e. 61st st. ",
+       "city":"new york",
+       "phone":2123191660,
+       "cuisine_type":"americano"
+    },
+    {
+       "rest_name":"carmine  s",
+       "rest_addr":" 2450 broadway between 90th and 91st sts . ",
+       "city":"new york",
+       "phone":2123622200,
+       "cuisine_type":"italiann"
+    },
+    {
+       "rest_name":"chanterelle",
+       "rest_addr":" 2 harrison st. near hudson st. ",
+       "city":"new york",
+       "phone":2129666960,
+       "cuisine_type":"ameerican"
+    },
+    {
+       "rest_name":"dawat",
+       "rest_addr":" 210 e. 58th st. ",
+       "city":"new york",
+       "phone":2123557555,
+       "cuisine_type":"asianne"
+    },
+    {
+       "rest_name":"felidia",
+       "rest_addr":" 243 e. 58th st. ",
+       "city":"new york",
+       "phone":2127581479,
+       "cuisine_type":"italiano"
+    },
+    {
+       "rest_name":"four seasons grill room",
+       "rest_addr":"99 e. 52nd st. ",
+       "city":"new york",
+       "phone":2127549494,
+       "cuisine_type":"americin"
+    },
+    {
+       "rest_name":"gotham bar & grill",
+       "rest_addr":"12 e. 12th st. ",
+       "city":"new york",
+       "phone":2126204020,
+       "cuisine_type":"ammericann"
+    },
+    {
+       "rest_name":"gramercy tavern",
+       "rest_addr":"42 e. 20th st. between park ave. s and broadway ",
+       "city":"new york",
+       "phone":2124770777,
+       "cuisine_type":"americann"
+    },
+    {
+       "rest_name":"jo jo",
+       "rest_addr":" 160 e. 64th st. ",
+       "city":"new york",
+       "phone":2122235656,
+       "cuisine_type":"amerycan"
+    },
+    {
+       "rest_name":"lespinasse",
+       "rest_addr":" 2 e. 55th st. ",
+       "city":"new york",
+       "phone":2123396719,
+       "cuisine_type":"aamerican"
+    },
+    {
+       "rest_name":"march",
+       "rest_addr":" 405 e. 58th st. ",
+       "city":"new york",
+       "phone":2127546272,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"mesa grill",
+       "rest_addr":" 102 5th ave. between 15th and 16th sts . ",
+       "city":"new york",
+       "phone":2128077400,
+       "cuisine_type":"americann"
+    },
+    {
+       "rest_name":"park avenue cafe",
+       "rest_addr":" 100 e. 63rd st. ",
+       "city":"new york",
+       "phone":2126441900,
+       "cuisine_type":"ameerican"
+    },
+    {
+       "rest_name":"river cafe",
+       "rest_addr":" 1 water st. at the east river ",
+       "city":"brooklyn",
+       "phone":7185225200,
+       "cuisine_type":"ameriican"
+    },
+    {
+       "rest_name":"san domenico",
+       "rest_addr":" 240 central park s ",
+       "city":"new york",
+       "phone":2122655959,
+       "cuisine_type":"italiaan"
+    },
+    {
+       "rest_name":"seryna",
+       "rest_addr":"11 e. 53rd st. ",
+       "city":"new york",
+       "phone":2129809393,
+       "cuisine_type":"asiian"
+    },
+    {
+       "rest_name":"shun lee west",
+       "rest_addr":"43 w. 65th st. ",
+       "city":"new york",
+       "phone":2123718844,
+       "cuisine_type":"asiaan"
+    },
+    {
+       "rest_name":"sign of the dove",
+       "rest_addr":" 1110 3rd ave. at 65th st. ",
+       "city":"new york",
+       "phone":2128618080,
+       "cuisine_type":"amerrican"
+    },
+    {
+       "rest_name":"smith & wollensky",
+       "rest_addr":" 201 e. 49th st. ",
+       "city":"new york",
+       "phone":2127531530,
+       "cuisine_type":"ameerrican"
+    },
+    {
+       "rest_name":"tavern on the green",
+       "rest_addr":" in central park at 67th st. ",
+       "city":"new york",
+       "phone":2128733200,
+       "cuisine_type":"ammereican"
+    },
+    {
+       "rest_name":"union square cafe",
+       "rest_addr":"21 e. 16th st. ",
+       "city":"new york",
+       "phone":2122434020,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"virgil  s",
+       "rest_addr":" 152 w. 44th st. ",
+       "city":"new york",
+       "phone":2129219494,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"chin  s",
+       "rest_addr":" 3200 las vegas blvd. s ",
+       "city":"las vegas",
+       "phone":7027338899,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"abruzzi",
+       "rest_addr":" 2355 peachtree rd. . peachtree battle shopping center ",
+       "city":"atlanta",
+       "phone":4042618186,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"bone  s",
+       "rest_addr":" 3130 piedmont road ",
+       "city":"atlanta",
+       "phone":4042372663,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"buckhead diner",
+       "rest_addr":" 3073 piedmont road ",
+       "city":"atlanta",
+       "phone":4042623336,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"delectables",
+       "rest_addr":" 1 margaret mitchell sq. ",
+       "city":"atlanta",
+       "phone":4046812909,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"georgia grille",
+       "rest_addr":" 2290 peachtree rd. . peachtree square shopping center ",
+       "city":"atlanta",
+       "phone":4043523517,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"heera of india",
+       "rest_addr":" 595 piedmont ave. rio shopping mall ",
+       "city":"atlanta",
+       "phone":4048764408,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"la grotta",
+       "rest_addr":" 2637 peachtree rd. . peachtree house condominium ",
+       "city":"atlanta",
+       "phone":4042311368,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"veni vidi vici",
+       "rest_addr":"41 14th st. ",
+       "city":"atlanta",
+       "phone":4048758424,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"boulevard",
+       "rest_addr":" 1 mission st. ",
+       "city":"san francisco",
+       "phone":4155436084,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"campton place",
+       "rest_addr":" 340 stockton st. ",
+       "city":"san francisco",
+       "phone":4159555555,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"hawthorne lane",
+       "rest_addr":"22 hawthorne st. ",
+       "city":"san francisco",
+       "phone":4157779779,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"khan toke thai house",
+       "rest_addr":" 5937 geary blvd. ",
+       "city":"san francisco",
+       "phone":4156686654,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"mifune japan center kintetsu building",
+       "rest_addr":" 1737 post st. ",
+       "city":"san francisco",
+       "phone":4159220337,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"postrio",
+       "rest_addr":" 545 post st. ",
+       "city":"san francisco",
+       "phone":4157767825,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"ritz-carlton restaurant and dining room",
+       "rest_addr":" 600 stockton st. ",
+       "city":"san francisco",
+       "phone":4152967465,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"rose pistola",
+       "rest_addr":" 532 columbus ave. ",
+       "city":"san francisco",
+       "phone":4153990499,
+       "cuisine_type":"italiaan"
+    },
+    {
+       "rest_name":"il nido",
+       "rest_addr":" 251 e. 53rd st. ",
+       "city":"new york",
+       "phone":2127538450,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"remi",
+       "rest_addr":" 145 w. 53rd st. ",
+       "city":"new york",
+       "phone":2125814242,
+       "cuisine_type":"italianne"
+    },
+    {
+       "rest_name":"adriano  s ristorante",
+       "rest_addr":" 2930 beverly glen circle ",
+       "city":"los angeles",
+       "phone":3104759807,
+       "cuisine_type":"italiian"
+    },
+    {
+       "rest_name":"barney greengrass",
+       "rest_addr":" 9570 wilshire blvd. ",
+       "city":"beverly hills",
+       "phone":3107775877,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"broadway deli",
+       "rest_addr":" 3rd st. promenade ",
+       "city":"santa monica",
+       "phone":3104510616,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"ca   brea",
+       "rest_addr":" 346 s. la brea ave. ",
+       "city":"los angeles",
+       "phone":2139382863,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"ca   del sol",
+       "rest_addr":" 4100 cahuenga blvd. ",
+       "city":"los angeles",
+       "phone":8189854669,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"canter  s",
+       "rest_addr":" 419 n. fairfax ave. ",
+       "city":"los angeles",
+       "phone":2136512030,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"chan dara",
+       "rest_addr":" 310 n. larchmont blvd. ",
+       "city":"los angeles",
+       "phone":2134671052,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"drago",
+       "rest_addr":" 2628 wilshire blvd. ",
+       "city":"santa monica",
+       "phone":3108281585,
+       "cuisine_type":"italiaan"
+    },
+    {
+       "rest_name":"ed debevic  s",
+       "rest_addr":" 134 n. la cienega ",
+       "city":"los angeles",
+       "phone":3106591952,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"gilliland  s",
+       "rest_addr":" 2424 main st. ",
+       "city":"santa monica",
+       "phone":3103923901,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"gladstone  s",
+       "rest_addr":" 4 fish 17300 pacific coast hwy . at sunset blvd. ",
+       "city":"pacific palisades",
+       "phone":3104543474,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"hard rock cafe",
+       "rest_addr":" 8600 beverly blvd. ",
+       "city":"los angeles",
+       "phone":3102767605,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"harry  s bar & american grill",
+       "rest_addr":" 2020 ave. of the stars ",
+       "city":"los angeles",
+       "phone":3102772333,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"il fornaio cucina italiana",
+       "rest_addr":" 301 n. beverly dr. ",
+       "city":"los angeles",
+       "phone":3105508330,
+       "cuisine_type":"itallian"
+    },
+    {
+       "rest_name":"joss",
+       "rest_addr":" 9255 sunset blvd. ",
+       "city":"los angeles",
+       "phone":3102761886,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"le colonial",
+       "rest_addr":" 8783 beverly blvd. ",
+       "city":"los angeles",
+       "phone":3102890660,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"louise  s trattoria",
+       "rest_addr":" 4500 los feliz blvd. ",
+       "city":"los angeles",
+       "phone":2136670777,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"mon kee seafood restaurant",
+       "rest_addr":" 679 n. spring st. ",
+       "city":"los angeles",
+       "phone":2136286717,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"morton  s",
+       "rest_addr":" 8764 melrose ave. ",
+       "city":"los angeles",
+       "phone":3102765205,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"nate   n   al  s",
+       "rest_addr":" 414 n. beverly dr. ",
+       "city":"los angeles",
+       "phone":3102740101,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"nicola",
+       "rest_addr":" 601 s. figueroa st. ",
+       "city":"los angeles",
+       "phone":2134850927,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"ocean avenue",
+       "rest_addr":" 1401 ocean ave. ",
+       "city":"santa monica",
+       "phone":3103945669,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"pacific dining car",
+       "rest_addr":" 6th st. ",
+       "city":"los angeles",
+       "phone":2134836000,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"paty  s",
+       "rest_addr":" 10001 riverside dr. ",
+       "city":"toluca lake",
+       "phone":8187619126,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"posto",
+       "rest_addr":" 14928 ventura blvd. ",
+       "city":"sherman oaks",
+       "phone":8187844400,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"prego",
+       "rest_addr":" 362 n. camden dr. ",
+       "city":"los angeles",
+       "phone":3102777346,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"rj  s the rib joint",
+       "rest_addr":" 252 n. beverly dr. ",
+       "city":"los angeles",
+       "phone":3102747427,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"remi",
+       "rest_addr":" 3rd st. promenade ",
+       "city":"santa monica",
+       "phone":3103936545,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"restaurant horikawa",
+       "rest_addr":" 111 s. san pedro st. ",
+       "city":"los angeles",
+       "phone":2136809355,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"roscoe  s house of chicken   n   waffles",
+       "rest_addr":" 1514 n. gower st. ",
+       "city":"los angeles",
+       "phone":2134669329,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"swingers",
+       "rest_addr":" 8020 beverly blvd. ",
+       "city":"los angeles",
+       "phone":2136535858,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"tavola calda",
+       "rest_addr":" 7371 melrose ave. ",
+       "city":"los angeles",
+       "phone":2136586340,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"the mandarin",
+       "rest_addr":" 430 n. camden dr. ",
+       "city":"los angeles",
+       "phone":3108590926,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"tommy tang  s",
+       "rest_addr":" 7313 melrose ave. ",
+       "city":"los angeles",
+       "phone":2139375733,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"tra di noi",
+       "rest_addr":" 3835 cross creek rd. ",
+       "city":"los angeles",
+       "phone":3104560169,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"trader vic  s",
+       "rest_addr":" 9876 wilshire blvd. ",
+       "city":"los angeles",
+       "phone":3102766345,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"vida",
+       "rest_addr":" 1930 north hillhurst ave. ",
+       "city":"los feliz",
+       "phone":2136604446,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"west beach cafe",
+       "rest_addr":"60 n. venice blvd. ",
+       "city":"los angeles",
+       "phone":3108235396,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"20 mott",
+       "rest_addr":"20 mott st. between bowery and pell st. ",
+       "city":"new york",
+       "phone":2129640380,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"9 jones street",
+       "rest_addr":" 9 jones st. ",
+       "city":"new york",
+       "phone":2129891220,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"aja",
+       "rest_addr":" 937 broadway at 22nd st. ",
+       "city":"new york",
+       "phone":2124738388,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"alley  s end",
+       "rest_addr":" 311 w. 17th st. ",
+       "city":"new york",
+       "phone":2126278899,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"ambassador grill",
+       "rest_addr":" 1 united nations plaza at 44th st. ",
+       "city":"new york",
+       "phone":2127025014,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"american place",
+       "rest_addr":" 2 park ave. at 32nd st. ",
+       "city":"new york",
+       "phone":2126842122,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"anche vivolo",
+       "rest_addr":" 222 e. 58th st. between 2nd and 3rd aves . ",
+       "city":"new york",
+       "phone":2123080112,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"arizona",
+       "rest_addr":" 206 206 e. 60th st. ",
+       "city":"new york",
+       "phone":2128380440,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"arturo  s",
+       "rest_addr":" 106 w. houston st. off thompson st. ",
+       "city":"new york",
+       "phone":2126773820,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"au mandarin",
+       "rest_addr":" 200-250 vesey st. world financial center ",
+       "city":"new york",
+       "phone":2123850313,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"barbetta",
+       "rest_addr":" 321 w. 46th st. ",
+       "city":"new york",
+       "phone":2122469171,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"ben benson  s",
+       "rest_addr":" 123 w. 52nd st. ",
+       "city":"new york",
+       "phone":2125818888,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"billy  s",
+       "rest_addr":" 948 1st ave. between 52nd and 53rd sts . ",
+       "city":"new york",
+       "phone":2127531870,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"boonthai",
+       "rest_addr":" 1393a 2nd ave. between 72nd and 73rd sts . ",
+       "city":"new york",
+       "phone":2122498484,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"brothers bar-b-q",
+       "rest_addr":" 225 varick st. at clarkston st. ",
+       "city":"new york",
+       "phone":2127272775,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"bruno",
+       "rest_addr":" 240 e. 58th st. ",
+       "city":"new york",
+       "phone":2126884190,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"bryant park grill roof restaurant and bp cafe",
+       "rest_addr":"25 w. 40th st. between 5th and 6th aves . ",
+       "city":"new york",
+       "phone":2128406500,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"c3",
+       "rest_addr":" 103 waverly pl . near washington sq. ",
+       "city":"new york",
+       "phone":2122541200,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"caffe bondi ristorante",
+       "rest_addr":" 7 w. 20th st. ",
+       "city":"new york",
+       "phone":2126918136,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"cendrillon asian grill & marimba bar",
+       "rest_addr":"45 mercer st. between broome and grand sts . ",
+       "city":"new york",
+       "phone":2123439012,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"chiam",
+       "rest_addr":" 160 e. 48th st. ",
+       "city":"new york",
+       "phone":2123712323,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"china grill",
+       "rest_addr":"60 w. 53rd st. ",
+       "city":"new york",
+       "phone":2123337788,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"coco pazzo",
+       "rest_addr":"23 e. 74th st. ",
+       "city":"new york",
+       "phone":2127940205,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"da nico",
+       "rest_addr":" 164 mulberry st. between grand and broome sts . ",
+       "city":"new york",
+       "phone":2123431212,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"diva",
+       "rest_addr":" 341 w. broadway near grand st. ",
+       "city":"new york",
+       "phone":2129419024,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"duane park cafe",
+       "rest_addr":" 157 duane st. between w. broadway and hudson st. ",
+       "city":"new york",
+       "phone":2127325555,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"em ily  s",
+       "rest_addr":" 1325 5th ave. at 111th st. ",
+       "city":"new york",
+       "phone":2129961212,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"em pire korea",
+       "rest_addr":" 6 e. 32nd st. ",
+       "city":"new york",
+       "phone":2127251333,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"ernie  s",
+       "rest_addr":" 2150 broadway between 75th and 76th sts . ",
+       "city":"new york",
+       "phone":2124961588,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"evergreen cafe",
+       "rest_addr":" 1288 1st ave. at 69th st. ",
+       "city":"new york",
+       "phone":2127443266,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"f. ille ponte ristorante",
+       "rest_addr":"39 desbrosses st. near west st. ",
+       "city":"new york",
+       "phone":2122264621,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"fifty seven fifty seven",
+       "rest_addr":"57 e. 57th st. ",
+       "city":"new york",
+       "phone":2127585757,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"film center cafe",
+       "rest_addr":" 635 9th ave. between 44th and 45th sts . ",
+       "city":"new york",
+       "phone":2122622525,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"fiorello  s roman cafe",
+       "rest_addr":" 1900 broadway between 63rd and 64th sts . ",
+       "city":"new york",
+       "phone":2125955330,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"firehouse",
+       "rest_addr":" 522 columbus ave. between 85th and 86th sts . ",
+       "city":"new york",
+       "phone":2125953139,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"first",
+       "rest_addr":"87 1st ave. between 5th and 6th sts . ",
+       "city":"new york",
+       "phone":2126743823,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"flowers",
+       "rest_addr":"21 west 17th st. between 5th and 6th aves . ",
+       "city":"new york",
+       "phone":2126918888,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"follonico",
+       "rest_addr":" 6 w. 24th st. ",
+       "city":"new york",
+       "phone":2126916359,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"fraunces tavern",
+       "rest_addr":"54 pearl st. at broad st. ",
+       "city":"new york",
+       "phone":2122690144,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"frico bar",
+       "rest_addr":" 402 w. 43rd st. off 9th ave. ",
+       "city":"new york",
+       "phone":2125647272,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"fujiyama mama",
+       "rest_addr":" 467 columbus ave. between 82nd and 83rd sts . ",
+       "city":"new york",
+       "phone":2127691144,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"gallagher  s",
+       "rest_addr":" 228 w. 52nd st. ",
+       "city":"new york",
+       "phone":2122455336,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"girafe",
+       "rest_addr":" 208 e. 58th st. between 2nd and 3rd aves . ",
+       "city":"new york",
+       "phone":2127523054,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"global",
+       "rest_addr":"33 93 2nd ave. between 5th and 6th sts . ",
+       "city":"new york",
+       "phone":2124778427,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"golden unicorn",
+       "rest_addr":"18 e. broadway at catherine st. ",
+       "city":"new york",
+       "phone":2129410911,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"grand ticino",
+       "rest_addr":" 228 thompson st. between w. 3rd and bleecker sts . ",
+       "city":"new york",
+       "phone":2127775922,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"halcyon",
+       "rest_addr":" 151 w. 54th st. in the rihga royal hotel ",
+       "city":"new york",
+       "phone":2124688888,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"hard rock cafe",
+       "rest_addr":" 221 w. 57th st. ",
+       "city":"new york",
+       "phone":2124896565,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"hi-life restaurant and lounge",
+       "rest_addr":" 1340 1st ave. at 72nd st. ",
+       "city":"new york",
+       "phone":2122493600,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"home",
+       "rest_addr":"20 cornelia st. between bleecker and w. 4th st. ",
+       "city":"new york",
+       "phone":2122439579,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"hudson river club",
+       "rest_addr":" 4 world financial center ",
+       "city":"new york",
+       "phone":2127861500,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"i trulli",
+       "rest_addr":" 122 e. 27th st. between lexington and park aves . ",
+       "city":"new york",
+       "phone":2124817372,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"il cortile",
+       "rest_addr":" 125 mulberry st. between canal and hester sts . ",
+       "city":"new york",
+       "phone":2122266060,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"indochine",
+       "rest_addr":" 430 lafayette st. between 4th st. and astor pl . ",
+       "city":"new york",
+       "phone":2125055111,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"jewel of india",
+       "rest_addr":"15 w. 44th st. ",
+       "city":"new york",
+       "phone":2128695544,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"jimmy sung  s",
+       "rest_addr":" 219 e. 44th st. between 2nd and 3rd aves . ",
+       "city":"new york",
+       "phone":2126825678,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"joe allen",
+       "rest_addr":" 326 w. 46th st. ",
+       "city":"new york",
+       "phone":2125816464,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"judson grill",
+       "rest_addr":" 152 w. 52nd st. ",
+       "city":"new york",
+       "phone":2125825252,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"lanza restaurant",
+       "rest_addr":" 168 1st ave. between 10th and 11th sts . ",
+       "city":"new york",
+       "phone":2126747014,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"lattanzi ristorante",
+       "rest_addr":" 361 w. 46th st. ",
+       "city":"new york",
+       "phone":2123150980,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"le colonial",
+       "rest_addr":" 149 e. 57th st. ",
+       "city":"new york",
+       "phone":2127520808,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"le madri",
+       "rest_addr":" 168 w. 18th st. ",
+       "city":"new york",
+       "phone":2127278022,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"le marais",
+       "rest_addr":" 150 w. 46th st. ",
+       "city":"new york",
+       "phone":2128690900,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"le select",
+       "rest_addr":" 507 columbus ave. between 84th and 85th sts . ",
+       "city":"new york",
+       "phone":2128751993,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"lincoln tavern",
+       "rest_addr":"51 w. 64th st. ",
+       "city":"new york",
+       "phone":2127218271,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"lola",
+       "rest_addr":"30 west 22nd st. between 5th and 6th ave. ",
+       "city":"new york",
+       "phone":2126756700,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"main street",
+       "rest_addr":" 446 columbus ave. between 81st and 82nd sts . ",
+       "city":"new york",
+       "phone":2128735025,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"mangia e bevi",
+       "rest_addr":" 800 9th ave. at 53rd st. ",
+       "city":"new york",
+       "phone":2129563976,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"manhattan cafe",
+       "rest_addr":" 1161 1st ave. between 63rd and 64th sts . ",
+       "city":"new york",
+       "phone":2128886556,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"manila garden",
+       "rest_addr":" 325 e. 14th st. between 1st and 2nd aves . ",
+       "city":"new york",
+       "phone":2127776314,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"match",
+       "rest_addr":" 160 mercer st. between houston and prince sts . ",
+       "city":"new york",
+       "phone":2129069173,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"matthew  s",
+       "rest_addr":" 1030 3rd ave. at 61st st. ",
+       "city":"new york",
+       "phone":2128384343,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"mavalli palace",
+       "rest_addr":"46 e. 29th st. ",
+       "city":"new york",
+       "phone":2126795535,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"monkey bar",
+       "rest_addr":"60 e. 54th st. ",
+       "city":"new york",
+       "phone":2128382600,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"montien",
+       "rest_addr":" 1134 1st ave. between 62nd and 63rd sts . ",
+       "city":"new york",
+       "phone":2124214433,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"morton  s",
+       "rest_addr":" 551 5th ave. at 45th st. ",
+       "city":"new york",
+       "phone":2129723315,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"motown cafe",
+       "rest_addr":" 104 w. 57th st. near 6th ave. ",
+       "city":"new york",
+       "phone":2125818030,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"new york kom tang soot bul house",
+       "rest_addr":"32 w. 32nd st. ",
+       "city":"new york",
+       "phone":2129478482,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"new york noodletown",
+       "rest_addr":"28 1\/2 bowery at bayard st. ",
+       "city":"new york",
+       "phone":2123490923,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"odeon",
+       "rest_addr":" 145 w. broadway at thomas st. ",
+       "city":"new york",
+       "phone":2122330507,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"orso",
+       "rest_addr":" 322 w. 46th st. ",
+       "city":"new york",
+       "phone":2124897212,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"osteria al droge",
+       "rest_addr":" 142 w. 44th st. ",
+       "city":"new york",
+       "phone":2129443643,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"otabe",
+       "rest_addr":"68 e. 56th st. ",
+       "city":"new york",
+       "phone":2122237575,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"pacifica",
+       "rest_addr":" 138 lafayette st. between canal and howard sts . ",
+       "city":"new york",
+       "phone":2129414168,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"palio",
+       "rest_addr":" 151 w. 51st . st. ",
+       "city":"new york",
+       "phone":2122454850,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"parioli romanissimo",
+       "rest_addr":"24 e. 81st st. ",
+       "city":"new york",
+       "phone":2122882391,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"pen & pencil",
+       "rest_addr":" 205 e. 45th st. ",
+       "city":"new york",
+       "phone":2126828660,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"penang soho",
+       "rest_addr":" 109 spring st. between greene and mercer sts . ",
+       "city":"new york",
+       "phone":2122748883,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"planet hollywood",
+       "rest_addr":" 140 w. 57th st. ",
+       "city":"new york",
+       "phone":2123337827,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"popover cafe",
+       "rest_addr":" 551 amsterdam ave. between 86th and 87th sts . ",
+       "city":"new york",
+       "phone":2125958555,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"post house",
+       "rest_addr":"28 e. 63rd st. ",
+       "city":"new york",
+       "phone":2129352888,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"rain",
+       "rest_addr":" 100 w. 82nd st. ",
+       "city":"new york",
+       "phone":2125010776,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"republic",
+       "rest_addr":" 37a union sq. w between 16th and 17th sts . ",
+       "city":"new york",
+       "phone":2126277172,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"ruth  s chris",
+       "rest_addr":" 148 w. 51st st. ",
+       "city":"new york",
+       "phone":2122459600,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"s.p.q.r",
+       "rest_addr":" 133 mulberry st. between hester and grand sts . ",
+       "city":"new york",
+       "phone":2129253120,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"sal anthony  s",
+       "rest_addr":"55 irving pl . ",
+       "city":"new york",
+       "phone":2129829030,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"san pietro",
+       "rest_addr":"18 e. 54th st. ",
+       "city":"new york",
+       "phone":2127539015,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"sarabeth  s kitchen",
+       "rest_addr":" 423 amsterdam ave. between 80th and 81st sts . ",
+       "city":"new york",
+       "phone":2124966280,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"serendipity",
+       "rest_addr":" 3 225 e. 60th st. ",
+       "city":"new york",
+       "phone":2128383531,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"seventh regiment mess and bar",
+       "rest_addr":" 643 park ave. at 66th st. ",
+       "city":"new york",
+       "phone":2127444107,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"sfuzzi",
+       "rest_addr":"58 w. 65th st. ",
+       "city":"new york",
+       "phone":2128733700,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"shaan",
+       "rest_addr":"57 w. 48th st. ",
+       "city":"new york",
+       "phone":2129778400,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"sofia fabulous pizza",
+       "rest_addr":" 1022 madison ave. near 79th st. ",
+       "city":"new york",
+       "phone":2127342676,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"spring street natural restaurant & bar",
+       "rest_addr":"62 spring st. at lafayette st. ",
+       "city":"new york",
+       "phone":2129660290,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"sweet   n   tart cafe",
+       "rest_addr":"76 mott st. at canal st. ",
+       "city":"new york",
+       "phone":2123348088,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"tang pavillion",
+       "rest_addr":"65 w. 55th st. ",
+       "city":"new york",
+       "phone":2129566888,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"tapika",
+       "rest_addr":" 950 8th ave. at 56th st. ",
+       "city":"new york",
+       "phone":2123973737,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"the savannah club",
+       "rest_addr":" 2420 broadway at 89th st. ",
+       "city":"new york",
+       "phone":2124961066,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"trattoria dell   arte",
+       "rest_addr":" 900 7th ave. between 56th and 57th sts . ",
+       "city":"new york",
+       "phone":2122459800,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"triangolo",
+       "rest_addr":" 345 e. 83rd st. ",
+       "city":"new york",
+       "phone":2124724488,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"tribeca grill",
+       "rest_addr":" 375 greenwich st. near franklin st. ",
+       "city":"new york",
+       "phone":2129413900,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"tse yang",
+       "rest_addr":"34 e. 51st st. ",
+       "city":"new york",
+       "phone":2126885447,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"two two two",
+       "rest_addr":" 222 w. 79th st. ",
+       "city":"new york",
+       "phone":2127990400,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"verbena",
+       "rest_addr":"54 irving pl . at 17th st. ",
+       "city":"new york",
+       "phone":2122605454,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"vince & eddie  s",
+       "rest_addr":"70 w. 68th st. ",
+       "city":"new york",
+       "phone":2127210068,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"vong",
+       "rest_addr":" 200 e. 54th st. ",
+       "city":"new york",
+       "phone":2124869592,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"water club",
+       "rest_addr":" 500 e. 30th st. ",
+       "city":"new york",
+       "phone":2126833333,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"west",
+       "rest_addr":" 63rd street steakhouse 44 w. 63rd st. ",
+       "city":"new york",
+       "phone":2122466363,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"zoe",
+       "rest_addr":"90 prince st. between broadway and mercer st. ",
+       "city":"new york",
+       "phone":2129666722,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"annie  s thai castle",
+       "rest_addr":" 3195 roswell rd. ",
+       "city":"atlanta",
+       "phone":4042649546,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"anthonys",
+       "rest_addr":" 3109 piedmont rd. . just south of peachtree rd. ",
+       "city":"atlanta",
+       "phone":4042627379,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"atlanta fish market",
+       "rest_addr":" 265 pharr rd. ",
+       "city":"atlanta",
+       "phone":4042623165,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"bertolini  s",
+       "rest_addr":" 3500 peachtree rd. . phipps plaza ",
+       "city":"atlanta",
+       "phone":4042332333,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"cafe renaissance",
+       "rest_addr":" 7050 jimmy carter blvd. . norcross ",
+       "city":"atlanta",
+       "phone":7704410291,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"camille  s",
+       "rest_addr":" 1186 n. highland ave. ",
+       "city":"atlanta",
+       "phone":4048727203,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"hsu  s gourmet",
+       "rest_addr":" 192 peachtree center ave. at international blvd. ",
+       "city":"atlanta",
+       "phone":4046592788,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"kamogawa",
+       "rest_addr":" 3300 peachtree rd. . grand hyatt ",
+       "city":"atlanta",
+       "phone":4048410314,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"la grotta at ravinia dunwoody rd.",
+       "rest_addr":" holiday inn\/crowne plaza at ravinia dunwoody ",
+       "city":"atlanta",
+       "phone":7703959925,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"little szechuan",
+       "rest_addr":" c buford hwy . northwoods plaza doraville ",
+       "city":"atlanta",
+       "phone":7704510192,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"mi spia dunwoody rd.",
+       "rest_addr":" park place across from perimeter mall dunwoody ",
+       "city":"atlanta",
+       "phone":7703931333,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"pleasant peasant",
+       "rest_addr":" 555 peachtree st. at linden ave. ",
+       "city":"atlanta",
+       "phone":4048743223,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"pricci",
+       "rest_addr":" 500 pharr rd. ",
+       "city":"atlanta",
+       "phone":4042372941,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"r.j.  s uptown kitchen & wine bar",
+       "rest_addr":" 870 n. highland ave. ",
+       "city":"atlanta",
+       "phone":4048757775,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"sa tsu ki",
+       "rest_addr":" 3043 buford hwy . ",
+       "city":"atlanta",
+       "phone":4043255285,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"sato sushi and thai",
+       "rest_addr":" 6050 peachtree pkwy . norcross ",
+       "city":"atlanta",
+       "phone":7704490033,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"sundown cafe",
+       "rest_addr":" 2165 cheshire bridge rd. ",
+       "city":"atlanta",
+       "phone":4043211118,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"antonio  s",
+       "rest_addr":" 3700 w. flamingo ",
+       "city":"las vegas",
+       "phone":7022527737,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"bamboo garden",
+       "rest_addr":" 4850 flamingo rd. ",
+       "city":"las vegas",
+       "phone":7028713262,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"battista  s hole in the wall",
+       "rest_addr":" 4041 audrie st. at flamingo rd. ",
+       "city":"las vegas",
+       "phone":7027321424,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"bertolini  s",
+       "rest_addr":" 3570 las vegas blvd. s ",
+       "city":"las vegas",
+       "phone":7027354663,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"broiler",
+       "rest_addr":" 4111 boulder hwy . ",
+       "city":"las vegas",
+       "phone":7024327777,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"cafe michelle",
+       "rest_addr":" 1350 e. flamingo rd. ",
+       "city":"las vegas",
+       "phone":7027358686,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"capozzoli  s",
+       "rest_addr":" 3333 s. maryland pkwy . ",
+       "city":"las vegas",
+       "phone":7027315311,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"center stage plaza hotel",
+       "rest_addr":" 1 main st. ",
+       "city":"las vegas",
+       "phone":7023862512,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"em press court",
+       "rest_addr":" 3570 las vegas blvd. s ",
+       "city":"las vegas",
+       "phone":7027317888,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"lillie langtry  s",
+       "rest_addr":" 129 e. fremont st. ",
+       "city":"las vegas",
+       "phone":7023857111,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"mandarin court",
+       "rest_addr":" 1510 e. flamingo rd. ",
+       "city":"las vegas",
+       "phone":7027371234,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"mikado",
+       "rest_addr":" 3400 las vegas blvd. s ",
+       "city":"las vegas",
+       "phone":7027917111,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"venetian",
+       "rest_addr":" 3713 w. sahara ave. ",
+       "city":"las vegas",
+       "phone":7028764190,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"2223",
+       "rest_addr":" 2223 market st. ",
+       "city":"san francisco",
+       "phone":4154310692,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"acquarello",
+       "rest_addr":" 1722 sacramento st. ",
+       "city":"san francisco",
+       "phone":4155675432,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"betelnut",
+       "rest_addr":" 2030 union st. ",
+       "city":"san francisco",
+       "phone":4159298855,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"bix",
+       "rest_addr":"56 gold st. ",
+       "city":"san francisco",
+       "phone":4154336300,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"buca giovanni",
+       "rest_addr":" 800 greenwich st. ",
+       "city":"san francisco",
+       "phone":4157767766,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"cafe adriano",
+       "rest_addr":" 3347 fillmore st. ",
+       "city":"san francisco",
+       "phone":4154744180,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"capp  s corner",
+       "rest_addr":" 1600 powell st. ",
+       "city":"san francisco",
+       "phone":4159892589,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"carta",
+       "rest_addr":" 1772 market st. ",
+       "city":"san francisco",
+       "phone":4158633516,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"cypress club",
+       "rest_addr":" 500 jackson st. ",
+       "city":"san francisco",
+       "phone":4152968555,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"fog city diner",
+       "rest_addr":" 1300 battery st. ",
+       "city":"san francisco",
+       "phone":4159822000,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"gaylord  s",
+       "rest_addr":" ghirardelli sq. ",
+       "city":"san francisco",
+       "phone":4157718822,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"grand cafe hotel monaco",
+       "rest_addr":" 501 geary st. ",
+       "city":"san francisco",
+       "phone":4152920101,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"harbor village",
+       "rest_addr":" 4 embarcadero center ",
+       "city":"san francisco",
+       "phone":4157818833,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"harry denton  s",
+       "rest_addr":" 161 steuart st. ",
+       "city":"san francisco",
+       "phone":4158821333,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"hong kong flower lounge",
+       "rest_addr":" 5322 geary blvd. ",
+       "city":"san francisco",
+       "phone":4156688998,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"hong kong villa",
+       "rest_addr":" 2332 clement st. ",
+       "city":"san francisco",
+       "phone":4157528833,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"hyde street bistro",
+       "rest_addr":" 1521 hyde st. ",
+       "city":"san francisco",
+       "phone":4154417778,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"il fornaio levi  s plaza",
+       "rest_addr":" 1265 battery st. ",
+       "city":"san francisco",
+       "phone":4159860100,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"kabuto sushi",
+       "rest_addr":" 5116 geary blvd. ",
+       "city":"san francisco",
+       "phone":4157525652,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"kuleto  s",
+       "rest_addr":" 221 powell st. ",
+       "city":"san francisco",
+       "phone":4153977720,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"kyo-ya . sheraton palace hotel",
+       "rest_addr":" 2 new montgomery st. at market st. ",
+       "city":"san francisco",
+       "phone":4155465000,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"l   osteria del forno",
+       "rest_addr":" 519 columbus ave. ",
+       "city":"san francisco",
+       "phone":4159821124,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"le soleil",
+       "rest_addr":" 133 clement st. ",
+       "city":"san francisco",
+       "phone":4156684848,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"macarthur park",
+       "rest_addr":" 607 front st. ",
+       "city":"san francisco",
+       "phone":4153985700,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"manora",
+       "rest_addr":" 3226 mission st. ",
+       "city":"san francisco",
+       "phone":4158616224,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"north india",
+       "rest_addr":" 3131 webster st. ",
+       "city":"san francisco",
+       "phone":4159311556,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"one market",
+       "rest_addr":" 1 market st. ",
+       "city":"san francisco",
+       "phone":4157775577,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"oritalia",
+       "rest_addr":" 1915 fillmore st. ",
+       "city":"san francisco",
+       "phone":4153461333,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"palio d   asti",
+       "rest_addr":" 640 sacramento st. ",
+       "city":"san francisco",
+       "phone":4153959800,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"pane e vino",
+       "rest_addr":" 3011 steiner st. ",
+       "city":"san francisco",
+       "phone":4153462111,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"perry  s",
+       "rest_addr":" 1944 union st. ",
+       "city":"san francisco",
+       "phone":4159229022,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"rubicon",
+       "rest_addr":" 558 sacramento st. ",
+       "city":"san francisco",
+       "phone":4154344100,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"rumpus",
+       "rest_addr":" 1 tillman pl . ",
+       "city":"san francisco",
+       "phone":4154212300,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"sanppo",
+       "rest_addr":" 1702 post st. ",
+       "city":"san francisco",
+       "phone":4153463486,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"scala  s bistro",
+       "rest_addr":" 432 powell st. ",
+       "city":"san francisco",
+       "phone":4153958555,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"stars",
+       "rest_addr":" 150 redwood alley ",
+       "city":"san francisco",
+       "phone":4158617827,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"stars cafe",
+       "rest_addr":" 500 van ness ave. ",
+       "city":"san francisco",
+       "phone":4158614344,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"straits cafe",
+       "rest_addr":" 3300 geary blvd. ",
+       "city":"san francisco",
+       "phone":4156681783,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"thepin",
+       "rest_addr":" 298 gough st. ",
+       "city":"san francisco",
+       "phone":4158639335,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"ton kiang",
+       "rest_addr":" 3148 geary blvd. ",
+       "city":"san francisco",
+       "phone":4157524440,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"vivande porta via",
+       "rest_addr":" 2125 fillmore st. ",
+       "city":"san francisco",
+       "phone":4153464430,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"vivande ristorante",
+       "rest_addr":" 670 golden gate ave. ",
+       "city":"san francisco",
+       "phone":4156739245,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"world wrapps",
+       "rest_addr":" 2257 chestnut st. ",
+       "city":"san francisco",
+       "phone":4155639727,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"wu kong",
+       "rest_addr":" 101 spear st. ",
+       "city":"san francisco",
+       "phone":4159579300,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"yank sing",
+       "rest_addr":" 427 battery st. ",
+       "city":"san francisco",
+       "phone":4155414949,
+       "cuisine_type":"asianne"
+    }
+ ]

@@ -5,10 +5,10 @@ import os
 BASE_PATH = 'CleaningData/DataSets/'
 
 #recibe dataset por parámetro y devuelve el json del mismo nombre:
-def get_dataset(dataset_name):
+def get_dataset(dataset_name, dataset_version = '1'):
 
-    # definir path? o siempre local?
-    filename = os.path.join(BASE_PATH,dataset_name + '.json')
+    # Armo la ruta del archivo que contiene la version del dataset requerido:
+    filename = os.path.join(BASE_PATH, dataset_name, dataset_version + '.json')
     # filename = dataset_name + '.json'
     with open(filename) as json_file:
         json_data = json.load(json_file)

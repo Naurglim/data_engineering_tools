@@ -1,15 +1,11 @@
 import recordlinkage
 import pandas as pd
 import recordlinkage.compare
+from DataSets.datasets import get_dataset
 
 
-restaurants = pd.DataFrame({'rest_name': ['Panga','Penga','Pinga','Ponga','Punga'],
-                            'city': ['Buenos Aires', 'Córdoba', 'Sevilla', 'Mendoza', 'Tenerife'],
-                            'cuisine_type': ['italian','italian','asian','american','american']})
-
-restaurants_bis = pd.DataFrame({'rest_name': ['Pangea','Renga','Linga','Ponga','Puunga', 'Stone', 'Parchment', 'Shears', 'Dragon', 'Wizard'],
-                                'city': ['Buenos Aires', 'Córdoba', 'Sevilla', 'Mendoza', 'Tenerife', 'Buenos Aires', 'Sevilla', 'Sevilla', 'Tenerife', 'Mendoza'],
-                                'cuisine_type': ['italian','italian','asian','american','american','italian','italian','asian','american','american']})
+restaurants = get_dataset('restaurants','2')
+restaurants_bis = get_dataset('restaurants','3')
 
 # Create an indexer and object and find possible pairs
 indexer = recordlinkage.Index()
@@ -33,8 +29,10 @@ comp_cl.string('rest_name', 'rest_name', label='name', threshold = 0.8)
 # Get potential matches and print
 potential_matches = comp_cl.compute(pairs, restaurants, restaurants_bis)
 
+
 # DataFrame Linking:
 
+# Isolate potential matches with row sum >=3
 matches = potential_matches[potential_matches.sum(axis = 1) >= 3]
 
 duplicate_rows = matches.index.get_level_values(1)

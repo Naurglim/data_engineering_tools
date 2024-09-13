@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from datasets import get_dataset
+from DataSets.datasets import get_dataset
 
 
 categories = pd.DataFrame({ 'cleanliness': ['Clean','Average','Somewhat clean','Somewhat dirty','Dirty'],
@@ -9,7 +9,6 @@ categories = pd.DataFrame({ 'cleanliness': ['Clean','Average','Somewhat clean','
                         })
 
 airlines = get_dataset('airlines')
-
 
 # 1: Finding consistency
 # Print categories DataFrame
@@ -68,7 +67,7 @@ airlines['day_week'] = airlines['day'].replace(mappings)
 
 
 # 4: Cleaning Text Data:
-airlines = get_dataset('airlines_3')
+airlines = get_dataset('airlines','3')
 
 # Assert that full_name has honorifics
 # assert airlines['full_name'].str.contains('Ms.|Mr.|Miss|Dr.').any() == False
@@ -90,7 +89,7 @@ assert airlines['full_name'].str.contains('Ms.|Mr.|Miss|Dr.').any() == False
 
 
 # 5: Filter text values by length:
-airlines = get_dataset('airlines_4')
+airlines = get_dataset('airlines','4')
 
 # Store length of each row in survey_response column
 resp_length = airlines['survey_response'].str.len()

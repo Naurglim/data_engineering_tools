@@ -1,16 +1,16 @@
 
 from thefuzz import process
 import pandas as pd
+from DataSets.datasets import get_dataset
 
 
 categories = ['asian', 'italian', 'american']
-restaurants = pd.DataFrame({'name': ['Panga','Penga','Pinga','Ponga','Punga'],
-                            'cuisine_type': ['italiaan','itlian','aasia','merican','americ']})
+restaurants = get_dataset('restaurants')
 
 # Iterate through categories
 for cuisine in categories:  
   # Create a list of matches, comparing cuisine with the cuisine_type column
-  matches = process.extract(cuisine, restaurants['cuisine_type'], limit=len(restaurants.cuisine_type))
+  matches = process.extract(cuisine, restaurants['cuisine_type'], limit=len(restaurants['cuisine_type']))
 
   # Iterate through the list of matches
   for match in matches:

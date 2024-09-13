@@ -1,0 +1,576 @@
+[
+    {
+       "rest_name":"kokomo",
+       "rest_addr":"6333 w. third st.",
+       "city":"la",
+       "phone":2139330773,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"feenix",
+       "rest_addr":" 8358 sunset blvd. west ",
+       "city":"hollywood",
+       "phone":2138486677,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"parkway",
+       "rest_addr":"510 s. arroyo pkwy .",
+       "city":"pasadena",
+       "phone":8187951001,
+       "cuisine_type":"californian"
+    },
+    {
+       "rest_name":"r-23",
+       "rest_addr":"923 e. third st.",
+       "city":"los angeles",
+       "phone":2136877178,
+       "cuisine_type":"japanese"
+    },
+    {
+       "rest_name":"gumbo",
+       "rest_addr":"6333 w. third st.",
+       "city":"la",
+       "phone":2139330358,
+       "cuisine_type":"cajun\/creole"
+    },
+    {
+       "rest_name":"pink's",
+       "rest_addr":"709 n. la brea ave.",
+       "city":"la",
+       "phone":2139314223,
+       "cuisine_type":"hot dogs"
+    },
+    {
+       "rest_name":"original",
+       "rest_addr":"875 s. figueroa st. downtown",
+       "city":"la",
+       "phone":2136276879,
+       "cuisine_type":"diners"
+    },
+    {
+       "rest_name":"21 clubs",
+       "rest_addr":"21 w. 52nd st. ",
+       "city":"new york",
+       "phone":2125827200,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"langer's",
+       "rest_addr":"704 s. alvarado st.",
+       "city":"la",
+       "phone":2134838050,
+       "cuisine_type":"delis"
+    },
+    {
+       "rest_name":"mo",
+       "rest_addr":"7261 melrose ave.",
+       "city":"la",
+       "phone":2139355280,
+       "cuisine_type":"hamburgers"
+    },
+    {
+       "rest_name":"killer",
+       "rest_addr":"4000 colfax ave.",
+       "city":"studio city",
+       "phone":8185081570,
+       "cuisine_type":"seafood"
+    },
+    {
+       "rest_name":"jody",
+       "rest_addr":"2011 ocean front walk",
+       "city":"venice",
+       "phone":3103061995,
+       "cuisine_type":"hot dogs"
+    },
+    {
+       "rest_name":"chanterele",
+       "rest_addr":" 2 harrison st. near hudson st. ",
+       "city":"new york",
+       "phone":2129666960,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"ocean",
+       "rest_addr":"3117 ocean park blvd.",
+       "city":"santa monica",
+       "phone":3104525728,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"bruno's",
+       "rest_addr":"3838 centinela ave.",
+       "city":"mar vista",
+       "phone":3103975703,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"brighton",
+       "rest_addr":"9600 brighton way",
+       "city":"beverly hills",
+       "phone":3102767732,
+       "cuisine_type":"coffee shops"
+    },
+    {
+       "rest_name":"diaghilev",
+       "rest_addr":"1020 n. san vicente blvd.",
+       "city":"w. hollywood",
+       "phone":3108541111,
+       "cuisine_type":"russian"
+    },
+    {
+       "rest_name":"rubin's",
+       "rest_addr":"15322 ventura blvd.",
+       "city":"encino",
+       "phone":8189056515,
+       "cuisine_type":"hot dogs"
+    },
+    {
+       "rest_name":"ruth's",
+       "rest_addr":"224 s. beverly dr.",
+       "city":"beverly hills",
+       "phone":3108598744,
+       "cuisine_type":"steakhouses"
+    },
+    {
+       "rest_name":"la",
+       "rest_addr":"1842 e. first",
+       "city":"st. boyle hts .",
+       "phone":2132652887,
+       "cuisine_type":"mexican\/tex-mex"
+    },
+    {
+       "rest_name":"fourr seasons grill room",
+       "rest_addr":"99 e. 52nd st. ",
+       "city":"new york",
+       "phone":2127549494,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"valentina",
+       "rest_addr":" 3115 pico blvd. ",
+       "city":"santa monica",
+       "phone":3108294313,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"ruby's",
+       "rest_addr":"45 s. fair oaks ave.",
+       "city":"pasadena",
+       "phone":8187967829,
+       "cuisine_type":"diners"
+    },
+    {
+       "rest_name":"mishima",
+       "rest_addr":"8474 w. third st.",
+       "city":"la",
+       "phone":2137820181,
+       "cuisine_type":"noodle shops"
+    },
+    {
+       "rest_name":"baja",
+       "rest_addr":"3345 kimber dr.",
+       "city":"westlake village",
+       "phone":8054984049,
+       "cuisine_type":"mexican"
+    },
+    {
+       "rest_name":"falafel",
+       "rest_addr":"1059 broxton ave.",
+       "city":"westwood",
+       "phone":3102084444,
+       "cuisine_type":"middle eastern"
+    },
+    {
+       "rest_name":"yujean kang's gourmet chineese cuisine",
+       "rest_addr":"67 n. raymond ave. ",
+       "city":"los angeles",
+       "phone":8185850855,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"gothamm bar & grill",
+       "rest_addr":"12 e. 12th st. ",
+       "city":"new york",
+       "phone":2126204020,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"art's delicatess",
+       "rest_addr":" 12224 ventura blvd. ",
+       "city":"studio city",
+       "phone":8187621221,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"asahi",
+       "rest_addr":"2027 sawtelle blvd.",
+       "city":"west la",
+       "phone":3104792231,
+       "cuisine_type":"noodle shops"
+    },
+    {
+       "rest_name":"bristol",
+       "rest_addr":"1570 rosecrans ave. s.",
+       "city":"pasadena",
+       "phone":3106435229,
+       "cuisine_type":"californian"
+    },
+    {
+       "rest_name":"pho",
+       "rest_addr":"642 broadway",
+       "city":"chinatown",
+       "phone":2136265530,
+       "cuisine_type":"vietnamese"
+    },
+    {
+       "rest_name":"local",
+       "rest_addr":"30869 thousand oaks blvd.",
+       "city":"westlake village",
+       "phone":8187067706,
+       "cuisine_type":"health food"
+    },
+    {
+       "rest_name":"joe's",
+       "rest_addr":"1023 abbot kinney blvd.",
+       "city":"venice",
+       "phone":3103995811,
+       "cuisine_type":"american ( new )"
+    },
+    {
+       "rest_name":"bistro",
+       "rest_addr":"45 s. mentor ave.",
+       "city":"pasadena",
+       "phone":8187952478,
+       "cuisine_type":"californian"
+    },
+    {
+       "rest_name":"jan's",
+       "rest_addr":"8424 beverly blvd.",
+       "city":"la",
+       "phone":2136512866,
+       "cuisine_type":"coffee shops"
+    },
+    {
+       "rest_name":"michael's",
+       "rest_addr":"1147 third st.",
+       "city":"santa monica",
+       "phone":3104510843,
+       "cuisine_type":"californian"
+    },
+    {
+       "rest_name":"ocean",
+       "rest_addr":"145 n. atlantic blvd.",
+       "city":"monterey park",
+       "phone":8183082128,
+       "cuisine_type":"seafood"
+    },
+    {
+       "rest_name":"cafe",
+       "rest_addr":"9777 little santa monica blvd.",
+       "city":"beverly hills",
+       "phone":3108880108,
+       "cuisine_type":"pacific new wave"
+    },
+    {
+       "rest_name":"main",
+       "rest_addr":"10509 w. pico blvd.",
+       "city":"rancho park",
+       "phone":3104757564,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"arni morton's of chicago",
+       "rest_addr":" 435 s. la cienega blv . ",
+       "city":"los angeles",
+       "phone":3102461501,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"indo",
+       "rest_addr":"10428 1\/2 national blvd.",
+       "city":"la",
+       "phone":3108151290,
+       "cuisine_type":"indonesian"
+    },
+    {
+       "rest_name":"chez",
+       "rest_addr":"1716 pch",
+       "city":"redondo beach",
+       "phone":3105401222,
+       "cuisine_type":"eclectic"
+    },
+    {
+       "rest_name":"the palms",
+       "rest_addr":" 9001 santa monica blvd. ",
+       "city":"los angeles",
+       "phone":3105508811,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"koo",
+       "rest_addr":"8393 w. beverly blvd.",
+       "city":"la",
+       "phone":2136559045,
+       "cuisine_type":"chicken"
+    },
+    {
+       "rest_name":"rae's",
+       "rest_addr":"2901 pico blvd.",
+       "city":"santa monica",
+       "phone":3108287937,
+       "cuisine_type":"diners"
+    },
+    {
+       "rest_name":"benita's",
+       "rest_addr":"1433 third st. promenade",
+       "city":"santa monica",
+       "phone":3104582889,
+       "cuisine_type":"fast food"
+    },
+    {
+       "rest_name":"felicia",
+       "rest_addr":" 243 e. 58th st. ",
+       "city":"new york",
+       "phone":2127581479,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"johnny",
+       "rest_addr":"4663 long beach blvd.",
+       "city":"long beach",
+       "phone":3104237327,
+       "cuisine_type":"southern\/soul"
+    },
+    {
+       "rest_name":"johnny",
+       "rest_addr":"7507 melrose ave.",
+       "city":"la",
+       "phone":2136513361,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"philipe's the original",
+       "rest_addr":" 1001 n. alameda st. ",
+       "city":"los angeles",
+       "phone":2136283781,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"cafe",
+       "rest_addr":"838 lincoln blvd.",
+       "city":"venice",
+       "phone":3103991955,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"cassell's",
+       "rest_addr":"3266 w. sixth st.",
+       "city":"la",
+       "phone":2134808668,
+       "cuisine_type":"hamburgers"
+    },
+    {
+       "rest_name":"grill on the allie",
+       "rest_addr":" 9560 dayton way ",
+       "city":"los angeles",
+       "phone":3102760615,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"maxwell's",
+       "rest_addr":"13329 washington blvd.",
+       "city":"marina del rey",
+       "phone":3103067829,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"cafe lala",
+       "rest_addr":" 201 w. 83rd st. ",
+       "city":"new york",
+       "phone":2124966031,
+       "cuisine_type":"coffeebar"
+    },
+    {
+       "rest_name":"hollywood",
+       "rest_addr":"6145 franklin ave.",
+       "city":"hollywood",
+       "phone":2134677678,
+       "cuisine_type":"coffee shops"
+    },
+    {
+       "rest_name":"carrmine's",
+       "rest_addr":" 2450 broadway between 90th and 91st sts . ",
+       "city":"new york",
+       "phone":2123622200,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"duke's",
+       "rest_addr":"8909 sunset blvd.",
+       "city":"w. hollywood",
+       "phone":3106523100,
+       "cuisine_type":"coffee shops"
+    },
+    {
+       "rest_name":"johnnie's",
+       "rest_addr":"4017 s. sepulveda blvd.",
+       "city":"culver city",
+       "phone":3103976654,
+       "cuisine_type":"delis"
+    },
+    {
+       "rest_name":"bernard's",
+       "rest_addr":"515 s. olive st.",
+       "city":"los angeles",
+       "phone":2136121580,
+       "cuisine_type":"continental"
+    },
+    {
+       "rest_name":"apple",
+       "rest_addr":"10801 w. pico blvd.",
+       "city":"west la",
+       "phone":3104753585,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"belvedere",
+       "rest_addr":"9882 little santa monica blvd.",
+       "city":"beverly hills",
+       "phone":3107882306,
+       "cuisine_type":"pacific new wave"
+    },
+    {
+       "rest_name":"poquito",
+       "rest_addr":"2635 w. olive ave.",
+       "city":"burbank",
+       "phone":8185632252,
+       "cuisine_type":"mexican"
+    },
+    {
+       "rest_name":"la",
+       "rest_addr":"10506 little santa monica blvd.",
+       "city":"century city",
+       "phone":3104704992,
+       "cuisine_type":"french ( new )"
+    },
+    {
+       "rest_name":"restaurant katsui",
+       "rest_addr":" 1972 n. hillhurst ave. ",
+       "city":"los angeles",
+       "phone":2136651891,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"la",
+       "rest_addr":"22800 pch",
+       "city":"malibu",
+       "phone":3104566299,
+       "cuisine_type":"mexican"
+    },
+    {
+       "rest_name":"aureola",
+       "rest_addr":"34 e. 61st st. ",
+       "city":"new york",
+       "phone":2123191660,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"russell's",
+       "rest_addr":"1198 pch",
+       "city":"seal beach",
+       "phone":3105969556,
+       "cuisine_type":"hamburgers"
+    },
+    {
+       "rest_name":"mani's",
+       "rest_addr":"519 s. fairfax ave.",
+       "city":"la",
+       "phone":2139388800,
+       "cuisine_type":"desserts"
+    },
+    {
+       "rest_name":"john",
+       "rest_addr":"10516 w. pico blvd.",
+       "city":"west la",
+       "phone":3102040692,
+       "cuisine_type":"coffee shops"
+    },
+    {
+       "rest_name":"dawatt",
+       "rest_addr":" 210 e. 58th st. ",
+       "city":"new york",
+       "phone":2123557555,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"brent's",
+       "rest_addr":"19565 parthenia ave.",
+       "city":"northridge",
+       "phone":8188865679,
+       "cuisine_type":"delis"
+    },
+    {
+       "rest_name":"locanda venetta",
+       "rest_addr":" 3rd st. ",
+       "city":"los angeles",
+       "phone":3102741893,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"campanil",
+       "rest_addr":" 624 s. la brea ave. ",
+       "city":"los angeles",
+       "phone":2139381447,
+       "cuisine_type":"american"
+    },
+    {
+       "rest_name":"rex il ristoranti",
+       "rest_addr":" 617 s. olive st. ",
+       "city":"los angeles",
+       "phone":2136272300,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"don",
+       "rest_addr":"1136 westwood blvd.",
+       "city":"westwood",
+       "phone":3102091422,
+       "cuisine_type":"italian"
+    },
+    {
+       "rest_name":"feast",
+       "rest_addr":"1949 westwood blvd.",
+       "city":"west la",
+       "phone":3104750400,
+       "cuisine_type":"chinese"
+    },
+    {
+       "rest_name":"mulberry",
+       "rest_addr":"17040 ventura blvd.",
+       "city":"encino",
+       "phone":8189068881,
+       "cuisine_type":"pizza"
+    },
+    {
+       "rest_name":"matsuhissa",
+       "rest_addr":" 129 n. la cienega blvd. ",
+       "city":"beverly hills",
+       "phone":3106599639,
+       "cuisine_type":"asian"
+    },
+    {
+       "rest_name":"jiraffe",
+       "rest_addr":"502 santa monica blvd",
+       "city":"santa monica",
+       "phone":3109176671,
+       "cuisine_type":"californian"
+    },
+    {
+       "rest_name":"martha's",
+       "rest_addr":"22nd street grill 25 22nd",
+       "city":"st. hermosa beach",
+       "phone":3103767786,
+       "cuisine_type":"american"
+    }
+ ]

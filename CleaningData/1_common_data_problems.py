@@ -1,5 +1,6 @@
 import pandas as pd
 import datetime as dt
+from DataSets.datasets import get_dataset
 
 ride_sharing = pd.DataFrame({'user_type': ['1','3','1','2','2','2'],
                             'duration': ['15 minutes', '23 minutes', '5 minutes', '35 minutes', '28 minutes','28 minutes'],
@@ -12,6 +13,8 @@ ride_sharing = pd.DataFrame({'user_type': ['1','3','1','2','2','2'],
 
 
 # 1: get information and convert to another data type (int -> category) 
+ride_sharing = get_dataset('rides', '1')
+
 # Print the information of ride_sharing
 print(ride_sharing.info())
 
@@ -44,6 +47,7 @@ print(ride_sharing['duration_time'].mean())
 
 
 # 3: Clean category data -> assign a predefined category to some data.
+ride_sharing = get_dataset('rides','2')
 # Convert tire_sizes to integer
 ride_sharing['tire_sizes'] = ride_sharing['tire_sizes'].astype('int')
 
@@ -58,6 +62,7 @@ print(ride_sharing['tire_sizes'].describe())
 
 
 # 4: Fix date data -> set today as default for data in the future.
+ride_sharing = get_dataset('rides','3')
 # Convert ride_date to date
 ride_sharing['ride_dt'] = pd.to_datetime(ride_sharing['ride_date']).dt.date
 
@@ -72,6 +77,7 @@ print(ride_sharing['ride_dt'].max())
 
 
 # 5: Find duplicates in data
+ride_sharing = get_dataset('rides','4')
 # Find duplicates
 duplicates = ride_sharing.duplicated(subset=['ride_id'], keep = False)
 
@@ -84,6 +90,8 @@ print(duplicated_rides[['ride_id','duration','user_birth_year']])
 
 # 6: Duplicate treatment: Drop complete duplicates, adjust for partial duplicates (duration and birth dates differ between records with same id)
 # Drop complete duplicates from ride_sharing
+ride_sharing = get_dataset('rides', '5')
+
 ride_dup = ride_sharing.drop_duplicates()
 
 # Create statistics dictionary for aggregation function
