@@ -64,7 +64,7 @@ print(ride_sharing['tire_sizes'].describe())
 # 4: Fix date data -> set today as default for data in the future.
 ride_sharing = get_dataset('rides','3')
 # Convert ride_date to date
-ride_sharing['ride_dt'] = pd.to_datetime(ride_sharing['ride_date']).dt.date
+ride_sharing['ride_dt'] = pd.to_datetime(ride_sharing['ride_date'], format='mixed').dt.date
 
 # Save today's date
 today = dt.date.today()
