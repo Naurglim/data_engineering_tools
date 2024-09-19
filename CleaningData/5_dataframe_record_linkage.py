@@ -10,7 +10,7 @@ restaurants_bis = get_dataset('restaurants','3')
 # Create an indexer and object and find possible pairs
 indexer = recordlinkage.Index()
 
-# Block pairing on cuisine_type
+# Block pairing on cuisine_type (only records matching on cuisine type will be evaluated)
 indexer.block('cuisine_type')
 
 # Generate pairs
